@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1780077175041,
+    "name": "🔌 Falta de energia elétrica",
+    "prob": 2,
+    "impact": 3,
+    "response": "Manter nobreak e gerador reserva. Backup em nuvem a cada hora."
+  },
+  {
+    "id": 1780077175042,
+    "name": "👨‍💻 Saída de desenvolvedor sênior",
+    "prob": 2,
+    "impact": 5,
+    "response": "Documentar conhecimento, treinar substituto, manter rede de contatos."
+  },
+  {
+    "id": 1780077175043,
+    "name": "📱 Mudança de requisitos pelo cliente",
+    "prob": 4,
+    "impact": 3,
+    "response": "Metodologia ágil, sprints curtas, contrato com limite de mudanças."
+  },
+  {
+    "id": 1780077175044,
+    "name": "💰 Estouro de orçamento",
+    "prob": 3,
+    "impact": 4,
+    "response": "Reserva de contingência de 15%, revisão semanal de custos."
+  },
+  {
+    "id": 1780077441481,
+    "name": "funcionario preguiçoso",
+    "prob": 5,
+    "impact": 3,
+    "response": ""
+  },
+  {
+    "id": 1780077595616,
+    "name": "processo",
+    "prob": 4,
+    "impact": 5,
+    "response": ""
+  },
+  {
+    "id": 1780078849568,
+    "name": "🦷 Falta de açúcar no escritório",
+    "prob": 3,
+    "impact": 1,
+    "response": "verificar  o pote uma vez por semana"
+  },
+  {
+    "id": 1780078941144,
+    "name": "🌩️ Tempestade danifica roteador de internet",
+    "prob": 4,
+    "impact": 5,
+    "response": "Deve-se organizar o backup"
+  },
+  {
+    "id": 1780079050904,
+    "name": "👨‍💼 Gerente de projetos sai da empresa",
+    "prob": 2,
+    "impact": 3,
+    "response": "Deve contratar um outro Gerente para essa função enquanto o outro estiver cumprindo aviso."
+  },
+  {
+    "id": 1780079152088,
+    "name": "📉 Cliente reduz orçamento em 30% no meio do projeto",
+    "prob": 4,
+    "impact": 4,
+    "response": "Não entregar o projeto e caso preciso entrar com processo."
+  },
+  {
+    "id": 1780079249824,
+    "name": "🐛 Bug crítico em produção no fim de semana",
+    "prob": 2,
+    "impact": 4,
+    "response": "Pagar hora extra para que seja resolvido, com um salario generoso."
+  },
+  {
+    "id": 1780079361376,
+    "name": "6 🏢 Fornecedor atrasa servidor em 2 semanas",
+    "prob": 4,
+    "impact": 5,
+    "response": "Pedido servidor de outro fornecedor"
+  },
+  {
+    "id": 1780079477392,
+    "name": "🧠 Desenvolvedor júnior erra (retrabalho 3 dias)",
+    "prob": 3,
+    "impact": 5,
+    "response": "Desconta no salario dele, e pedir para outro fazer"
+  },
+  {
+    "id": 1780081132231,
+    "name": "⚖️ Nova lei exige adaptações simples",
+    "prob": 2,
+    "impact": 2,
+    "response": "Fazer com atenção nos ajustes"
+  },
+  {
+    "id": 1780081227415,
+    "name": "🏭 Incêndio destrói data center principal",
+    "prob": 2,
+    "impact": 5,
+    "response": "Backup dos arquivos perdidos no fogo"
+  },
+  {
+    "id": 1780081338423,
+    "name": "� Concorrente lança produto similar grátis",
+    "prob": 4,
+    "impact": 5,
+    "response": "Atualizações que sejam superior ao grátis"
+  }
+]
